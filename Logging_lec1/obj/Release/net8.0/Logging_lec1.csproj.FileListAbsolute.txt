@@ -1,0 +1,15 @@
+C:\Shuja\Code Examples\csharp\Logging_lec1\bin\Release\net8.0\Logging_lec1.exe
+C:\Shuja\Code Examples\csharp\Logging_lec1\bin\Release\net8.0\Logging_lec1.deps.json
+C:\Shuja\Code Examples\csharp\Logging_lec1\bin\Release\net8.0\Logging_lec1.runtimeconfig.json
+C:\Shuja\Code Examples\csharp\Logging_lec1\bin\Release\net8.0\Logging_lec1.dll
+C:\Shuja\Code Examples\csharp\Logging_lec1\bin\Release\net8.0\Logging_lec1.pdb
+C:\Shuja\Code Examples\csharp\Logging_lec1\obj\Release\net8.0\Logging_lec1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shuja\Code Examples\csharp\Logging_lec1\obj\Release\net8.0\Logging_lec1.AssemblyInfoInputs.cache
+C:\Shuja\Code Examples\csharp\Logging_lec1\obj\Release\net8.0\Logging_lec1.AssemblyInfo.cs
+C:\Shuja\Code Examples\csharp\Logging_lec1\obj\Release\net8.0\Logging_lec1.csproj.CoreCompileInputs.cache
+C:\Shuja\Code Examples\csharp\Logging_lec1\obj\Release\net8.0\Logging_lec1.sourcelink.json
+C:\Shuja\Code Examples\csharp\Logging_lec1\obj\Release\net8.0\Logging_lec1.dll
+C:\Shuja\Code Examples\csharp\Logging_lec1\obj\Release\net8.0\refint\Logging_lec1.dll
+C:\Shuja\Code Examples\csharp\Logging_lec1\obj\Release\net8.0\Logging_lec1.pdb
+C:\Shuja\Code Examples\csharp\Logging_lec1\obj\Release\net8.0\Logging_lec1.genruntimeconfig.cache
+C:\Shuja\Code Examples\csharp\Logging_lec1\obj\Release\net8.0\ref\Logging_lec1.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Logging_lec1/1.0.0": {
+        "runtime": {
+          "Logging_lec1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Logging_lec1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
