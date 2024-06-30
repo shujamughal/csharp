@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shuja\\Code Examples\\csharp\\Testing\\Unit Testing\\MyApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7CA6A6-14AE-46B1-B2F1-AE7426C66341}|..\\MyApplicationTestProject\\MyApplicationTestProject.csproj|c:\\shuja\\code examples\\csharp\\testing\\unit testing\\myapplicationtestproject\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB7542B-CAD7-4EEB-AE55-9C5942342302}|MyApplication.csproj|c:\\shuja\\code examples\\csharp\\testing\\unit testing\\myapplication\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB7542B-CAD7-4EEB-AE55-9C5942342302}|MyApplication.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB7542B-CAD7-4EEB-AE55-9C5942342302}|MyApplication.csproj|c:\\shuja\\code examples\\csharp\\testing\\unit testing\\myapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB7542B-CAD7-4EEB-AE55-9C5942342302}|MyApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\csharp\\Testing\\Unit Testing\\MyApplicationTestProject\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "..\\MyApplicationTestProject\\CalculatorTests.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\csharp\\Testing\\Unit Testing\\MyApplicationTestProject\\CalculatorTests.cs",
+              "RelativeToolTip": "..\\MyApplicationTestProject\\CalculatorTests.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:52:09.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\csharp\\Testing\\Unit Testing\\MyApplication\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\csharp\\Testing\\Unit Testing\\MyApplication\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:50:28.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\csharp\\Testing\\Unit Testing\\MyApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\csharp\\Testing\\Unit Testing\\MyApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:50:09.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 366,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 63,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
