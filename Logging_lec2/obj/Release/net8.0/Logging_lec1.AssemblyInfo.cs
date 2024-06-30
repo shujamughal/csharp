@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Logging_lec1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96293ed6f64f2f9e298a3a2049d425087fbdc65c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Logging_lec1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Logging_lec1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

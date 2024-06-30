@@ -11,7 +11,7 @@ namespace Logging_lec1
     internal partial class Program
     {
 
-        static void LogSourceDetails( bool condition, 
+        static void LogSourceDetails( bool condition, // condition is the name of the method argument you want stringified
             [CallerMemberName] string member = "",
             [CallerFilePath] string filepath = "",
             [CallerLineNumber] int line = 0,
