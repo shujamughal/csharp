@@ -1,0 +1,15 @@
+C:\Shuja\Code Examples\csharp\Testing\Unit Testing\MyApplication\bin\Debug\net8.0\MyApplication.exe
+C:\Shuja\Code Examples\csharp\Testing\Unit Testing\MyApplication\bin\Debug\net8.0\MyApplication.deps.json
+C:\Shuja\Code Examples\csharp\Testing\Unit Testing\MyApplication\bin\Debug\net8.0\MyApplication.runtimeconfig.json
+C:\Shuja\Code Examples\csharp\Testing\Unit Testing\MyApplication\bin\Debug\net8.0\MyApplication.dll
+C:\Shuja\Code Examples\csharp\Testing\Unit Testing\MyApplication\bin\Debug\net8.0\MyApplication.pdb
+C:\Shuja\Code Examples\csharp\Testing\Unit Testing\MyApplication\obj\Debug\net8.0\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shuja\Code Examples\csharp\Testing\Unit Testing\MyApplication\obj\Debug\net8.0\MyApplication.AssemblyInfoInputs.cache
+C:\Shuja\Code Examples\csharp\Testing\Unit Testing\MyApplication\obj\Debug\net8.0\MyApplication.AssemblyInfo.cs
+C:\Shuja\Code Examples\csharp\Testing\Unit Testing\MyApplication\obj\Debug\net8.0\MyApplication.csproj.CoreCompileInputs.cache
+C:\Shuja\Code Examples\csharp\Testing\Unit Testing\MyApplication\obj\Debug\net8.0\MyApplication.sourcelink.json
+C:\Shuja\Code Examples\csharp\Testing\Unit Testing\MyApplication\obj\Debug\net8.0\MyApplication.dll
+C:\Shuja\Code Examples\csharp\Testing\Unit Testing\MyApplication\obj\Debug\net8.0\refint\MyApplication.dll
+C:\Shuja\Code Examples\csharp\Testing\Unit Testing\MyApplication\obj\Debug\net8.0\MyApplication.pdb
+C:\Shuja\Code Examples\csharp\Testing\Unit Testing\MyApplication\obj\Debug\net8.0\MyApplication.genruntimeconfig.cache
+C:\Shuja\Code Examples\csharp\Testing\Unit Testing\MyApplication\obj\Debug\net8.0\ref\MyApplication.dll
