@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shuja\\source\\repos\\MockExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA54E31-3F19-4DEF-8AD1-ED9B896706DD}|..\\MockExampleTestProject\\MockExampleTestProject.csproj|c:\\users\\shuja\\source\\repos\\mockexampletestproject\\orderprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364995B-D1CF-432C-BDD2-83622742CE03}|MockExample.csproj|c:\\users\\shuja\\source\\repos\\mockexample\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364995B-D1CF-432C-BDD2-83622742CE03}|MockExample.csproj|solutionrelative:orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364995B-D1CF-432C-BDD2-83622742CE03}|MockExample.csproj|c:\\users\\shuja\\source\\repos\\mockexample\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364995B-D1CF-432C-BDD2-83622742CE03}|MockExample.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364995B-D1CF-432C-BDD2-83622742CE03}|MockExample.csproj|c:\\users\\shuja\\source\\repos\\mockexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364995B-D1CF-432C-BDD2-83622742CE03}|MockExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364995B-D1CF-432C-BDD2-83622742CE03}|MockExample.csproj|c:\\users\\shuja\\source\\repos\\mockexample\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364995B-D1CF-432C-BDD2-83622742CE03}|MockExample.csproj|solutionrelative:iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderProcessorTests.cs",
+              "DocumentMoniker": "C:\\Users\\shuja\\source\\repos\\MockExampleTestProject\\OrderProcessorTests.cs",
+              "RelativeDocumentMoniker": "..\\MockExampleTestProject\\OrderProcessorTests.cs",
+              "ToolTip": "C:\\Users\\shuja\\source\\repos\\MockExampleTestProject\\OrderProcessorTests.cs",
+              "RelativeToolTip": "..\\MockExampleTestProject\\OrderProcessorTests.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwBwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:05:50.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\shuja\\source\\repos\\MockExample\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\shuja\\source\\repos\\MockExample\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:03:21.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\shuja\\source\\repos\\MockExample\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "OrderProcessor.cs",
+              "ToolTip": "C:\\Users\\shuja\\source\\repos\\MockExample\\OrderProcessor.cs",
+              "RelativeToolTip": "OrderProcessor.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:02:54.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\shuja\\source\\repos\\MockExample\\IEmailService.cs",
+              "RelativeDocumentMoniker": "IEmailService.cs",
+              "ToolTip": "C:\\Users\\shuja\\source\\repos\\MockExample\\IEmailService.cs",
+              "RelativeToolTip": "IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:02:32.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shuja\\source\\repos\\MockExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shuja\\source\\repos\\MockExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:02:11.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 366,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 63,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
